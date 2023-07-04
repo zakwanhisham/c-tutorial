@@ -10,3 +10,8 @@ https://learn-c.org/en/
 ## TODO
 
 - Need to make a shell script for easier building the program
+- Need to reread the crucial parts, such as:
+  - malloc
+  - union
+  - pointer arithmetics
+  - bitmasks
